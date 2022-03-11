@@ -1,4 +1,4 @@
-# iot-arduino-interrupt1
+# iot-arduino-interrupt
 
 Target system: Arduino Uno
 
