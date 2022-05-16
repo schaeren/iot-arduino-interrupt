@@ -1,13 +1,7 @@
 # iot-arduino-interrupt
 
+Example for ATmega328P external interrupt handling.
+
 Target system: Arduino Uno
 
-MCU: ATmega 328P
-
-Required VS Code extensions:
-- PlatformIO
-
-Optional VS Code extensions:
-- C/C++
-
-See allso: https://www.schaerens.ch/iot-arduino-interrupt
+Development environment: Visual Studio Code with PlatformIO.
